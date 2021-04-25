@@ -1,0 +1,14 @@
+h1, p {
+  font-family: Lato;
+}
+
+h1 {
+  position: relative;
+  text-align: center;
+
+}
+
+body {
+  height:100vh;
+  background: linear-gradient(purple,lightblue);
+}
